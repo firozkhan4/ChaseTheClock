@@ -92,7 +92,7 @@ This project is open-source and licensed under the **MIT License**.
 
 ## Credits
 
-- This extension was created by **Firozkhan(https://x.com/firozkhan4)**.
+- This extension was created by **[Firozkhan](https://x.com/firozkhan_4)**.
 - Special thanks to the contributors for their support and improvements.
 
 ---
